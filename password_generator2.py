@@ -41,6 +41,10 @@ class PasswordGeneratorApp:
         # Display information
         self.info_label = tk.Label(root, text="Use 'Enter' to Generate Password\nUse 'Ctrl + C' to Copy Password", font=("Helvetica", 10), anchor="w")
         self.info_label.pack(side="left", padx=10, pady=(20, 0))
+        # Display information
+        self.info_label = tk.Label(root, text="Co-created By:\nChatGPT 3.5 & AndyPandyF20", font=("Helvetica", 10), anchor="w")
+        self.info_label.pack(side="right", padx=10, pady=(20, 0))
+
 
         # Center align elements vertically and horizontally
         self.root.grid_rowconfigure(0, weight=1)
