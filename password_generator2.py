@@ -102,3 +102,6 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = PasswordGeneratorApp(root)
     root.mainloop()
+
+#Credits
+#Co-created by ChatGPT 3.5 and AndyPandyF20
