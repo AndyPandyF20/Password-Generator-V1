@@ -1,4 +1,4 @@
-('C:\\Users\\Kapil\\Desktop\\python\\Password_Generator_V1_2\\build\\password_generator2\\PYZ-00.pyz',
+('C:\\Users\\Kapil\\Desktop\\python\\Password_Generator_V1_2\\Password-Generator-V1\\build\\password_generator2\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\Users\\Kapil\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_compat_pickle.py',
    'PYMODULE'),
